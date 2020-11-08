@@ -1,0 +1,1 @@
+gcc -o matrizOpenMP -fopenmp matrizOpenMP.c
