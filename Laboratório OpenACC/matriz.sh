@@ -1,0 +1,1 @@
+gcc -o matrizOpenACC -fopenacc matrizOpenACC.c
